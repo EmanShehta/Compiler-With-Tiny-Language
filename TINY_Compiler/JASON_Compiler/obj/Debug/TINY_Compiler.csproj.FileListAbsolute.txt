@@ -1,0 +1,20 @@
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\TINY_Compiler.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\dell\Desktop\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\obj\Debug\TINY_Compiler.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\dell\Desktop\TINY_Compiler\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
